@@ -692,6 +692,8 @@
 
 	}
 
+
+
 	@media screen and (max-width: 1280px) {
 
 		.row > * {
@@ -1671,7 +1673,7 @@
 
 	h2 {
 		font-size: 1.75em;
-		font-weight: 100;
+		font-weight: 700;
 	}
 
 	h3 {
@@ -3053,6 +3055,23 @@
 	#footer ul.icons li .icon {
 		font-size: 0.58em;
 	}
+
+
+	/* Other */
+
+	.lColor {
+		color:white;
+	}
+
+	input:focus, textarea:focus {
+		background-color: #c3dcfa;
+		color:black;
+	}
+
+	.bold {
+		font-weight:900;
+	}
+
 
 	@media screen and (max-width: 736px) {
 
