@@ -2948,7 +2948,7 @@
 
 		#banner h1 {
 			font-size: 3.5em;
-			font-weight: 100;
+			font-weight: 900;
 			color: #fff;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
@@ -2957,7 +2957,8 @@
 
 		#banner p {
 			font-size: 1em;
-			color: rgba(255, 255, 255, 0.55);
+			font-weight: 700;
+			color: #f7f7f7;
 			margin-bottom: 1.75em;
 		}
 
